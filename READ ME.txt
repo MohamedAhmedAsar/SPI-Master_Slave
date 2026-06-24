@@ -1,0 +1,7 @@
+1- creat a questa project in this file
+2- run the run_all.do file "do run_all.do"
+3- watch the magic happens
+4- the testbench tries all the diffrent four states: write_add /write_data/read_add/read_data
+    and it also selfcheck with preloaded data to the ram 
+5- we added the mem in wave to see the address 255 and read from address 3
+6- the netlist, constraint, PDF and bitstream are in attachment folder 
